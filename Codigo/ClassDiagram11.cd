@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BoundingBoxRenderer">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Vuforia\Scripts\BoundingBoxRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefaultInitializationErrorHandler">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABABAAAAADIAAAAgAAAggABAAAREAABHAACJAAAAAEA=</HashCode>
+      <FileName>Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DefaultModelRecoEventHandler" BaseTypeListCollapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQxBCQEgRCAAAAAAAAAAgAgAAAcAAAAACBAAAAIEAAs=</HashCode>
+      <FileName>Assets\Vuforia\Scripts\DefaultModelRecoEventHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DefaultTrackableEventHandler" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAQBAACCAAAAAAIAACAABAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Move">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Vuforia\Scripts\Move.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScriptImage" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAQBAACCAAAAAAAAACAABAAAAAAAAAABAAAAAAAA=</HashCode>
+      <FileName>Assets\Vuforia\Scripts\ScriptImage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

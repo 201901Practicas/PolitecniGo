@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="Fisica" size="0.150000 0.070497" />
+    <ImageTarget name="Quimica" size="0.150000 0.064286" />
+    <ImageTarget name="Electronica" size="0.150000 0.063238" />
+    <ImageTarget name="LogoViejo" size="0.150000 0.112500" />
+    <ImageTarget name="K10" size="0.150000 0.112500" />
+    <ImageTarget name="ALP" size="0.150000 0.112500" />
+    <ImageTarget name="PoliLogo2D" size="0.150000 0.112500" />
+    <ImageTarget name="PlacaE" size="0.150000 0.112500" />
+    <ImageTarget name="Placa1" size="0.150000 0.073262" />
     <ImageTarget name="CG" size="0.150000 0.150000" />
     <ImageTarget name="BG" size="0.150000 0.150000" />
     <ImageTarget name="AG" size="0.150000 0.150000" />
